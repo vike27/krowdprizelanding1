@@ -209,13 +209,15 @@
 
 .image-break{
     background-image: image-url('sf2.jpg');
-    height: 330px;
+    height: 310px;
     background-attachment:fixed;
     background-size:cover;
     color: white;
-  	padding-top: 50px;
+  	padding-top: 70px;
   	font-family: 'Open Sans Condensed', sans-serif;
-	font-size: 22px;
+	font-size: 25px;
+	font-weight: bold;
+	text-shadow: 1px 1px 1px #666666;
 }
 
 
